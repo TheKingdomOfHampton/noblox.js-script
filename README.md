@@ -1,4 +1,4 @@
 # Noblox.js script
 
 
-Tags: (#Noblox.js), (#AGirlJennifer)
+Tags: (Noblox.js), (AGirlJennifer), (Noblox.js script)
