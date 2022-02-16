@@ -1,1 +1,1 @@
-# noblox.js-script
+# Noblox.js script
